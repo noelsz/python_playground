@@ -4,18 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1167af36-1a8e-4aa9-aaeb-bc560d9ce78e" name="Changes" comment="countdown timer" />
+    <list default="true" id="1167af36-1a8e-4aa9-aaeb-bc560d9ce78e" name="Changes" comment="added project list">
+      <change afterPath="$PROJECT_DIR$/experiment/ui_exp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2luvK6PybhDdUVwxoILdbE6swwb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -24,6 +34,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.ui_exp.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
@@ -93,12 +104,93 @@
       <option name="project" value="LOCAL" />
       <updated>1726043385102</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="dice roll game">
+      <option name="closed" value="true" />
+      <created>1726043618138</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726043618138</updated>
+    </task>
+    <task id="LOCAL-00005" summary="hello world :)">
+      <option name="closed" value="true" />
+      <created>1726043668005</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1726043668005</updated>
+    </task>
+    <task id="LOCAL-00006" summary="mad libs game">
+      <option name="closed" value="true" />
+      <created>1726043714194</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1726043714194</updated>
+    </task>
+    <task id="LOCAL-00007" summary="number guessing game">
+      <option name="closed" value="true" />
+      <created>1726043760962</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1726043760962</updated>
+    </task>
+    <task id="LOCAL-00008" summary="password generator">
+      <option name="closed" value="true" />
+      <created>1726043804435</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1726043804435</updated>
+    </task>
+    <task id="LOCAL-00009" summary="simple calculator">
+      <option name="closed" value="true" />
+      <created>1726043858544</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1726043858544</updated>
+    </task>
+    <task id="LOCAL-00010" summary="to do list">
+      <option name="closed" value="true" />
+      <created>1726043906166</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1726043906166</updated>
+    </task>
+    <task id="LOCAL-00011" summary="weather app (OpenWeatherMap)">
+      <option name="closed" value="true" />
+      <created>1726043986774</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1726043986774</updated>
+    </task>
+    <task id="LOCAL-00012" summary="added project list">
+      <option name="closed" value="true" />
+      <created>1726044043878</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1726044043878</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="startpoint" />
     <MESSAGE value="countdown timer" />
-    <option name="LAST_COMMIT_MESSAGE" value="countdown timer" />
+    <MESSAGE value="dice roll game" />
+    <MESSAGE value="hello world :)" />
+    <MESSAGE value="mad libs game" />
+    <MESSAGE value="number guessing game" />
+    <MESSAGE value="password generator" />
+    <MESSAGE value="simple calculator" />
+    <MESSAGE value="to do list" />
+    <MESSAGE value="weather app (OpenWeatherMap)" />
+    <MESSAGE value="added project list" />
+    <option name="LAST_COMMIT_MESSAGE" value="added project list" />
   </component>
 </project>
