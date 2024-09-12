@@ -1,45 +1,47 @@
 1. hello_world.py
-   - the simplest project to start coding with
-   - welcomes you with the infamous greeting
+    - the simplest project to start coding with
+    - welcomes you with the infamous greeting
 
 2. simple_calculator.py
-   - a calculator in its simplest form
-   - can perform the basic arithmetic operations, addition, subtraction, multiplication, division
+    - a calculator in its simplest form
+    - can perform the basic arithmetic operations, addition, subtraction, multiplication, division
 
 3. number_guesser.py
-   - a number guessing game where the computer thinks about a random number between 1 and 100 and the user has to guess it
-   - gives feedback upon every guess whether the guess is higher or lower than the desired number
+    - a number guessing game where the computer thinks about a random number between 1 and 100 and the user has to guess it
+    - gives feedback upon every guess whether the guess is higher or lower than the desired number
 
 4. mad_libs.py
-   - a very simple implementation of the game where you have to fill the gaps in a story with words
-   - this python game has to be customized according to the story, and its requirements for words
+    - a very simple implementation of the game where you have to fill the gaps in a story with words
+    - this python game has to be customized according to the story, and its requirements for words
 
 5. to_do_list.py
-   - a command-line to-do list where you can add, remove and view tasks
-   - choose from the menu on the console and manage your tasks
+    - a command-line to-do list where you can add, remove and view tasks
+    - choose from the menu on the console and manage your tasks
 
 6. dice_roll.py
-   - roll dices until you stop the program
-   - simulates dice rolls with 2 dices, shows individual and combined results, then rolls again after pressing a key
+    - roll dices until you stop the program
+    - simulates dice rolls with 2 dices, shows individual and combined results, then rolls again after pressing a key
 
 7. countdown_timer.py
-   - starts a countdown timer based on the user input, then notifies with a "Time's up!" message
-   - user input has to be the amount of time they want to count down from in seconds
+    - starts a countdown timer based on the user input, then notifies with a "Time's up!" message
+    - user input has to be the amount of time they want to count down from in seconds
 
 8. password_generator.py
-   - the user can generate a password to their liking
-   - you are able to set the criteria whether you want to use only lowercase characters, or include uppercase letters, numbers and even special characters
+    - the user can generate a password to their liking
+    - you are able to set the criteria whether you want to use only lowercase characters, or include uppercase letters, numbers and even special characters
 
 9. weather_app.py
-   - this app needs an OpenWeatherMap API key to work
-   - you can use the key and a location of your choice to display the weather data
-   - (note: this app could work without an API key too in another solution, hence the OpenWeatherMap service provides a set number of free calls)
+    - this app needs an OpenWeatherMap API key to work
+    - you can use the key and a location of your choice to display the weather data
+    - (note: this app could work without an API key too in another solution, hence the OpenWeatherMap service provides a set number of free calls)
 
-10. Simple Contact Book
-    - Develop a program to manage contacts, allowing the user to add, remove, and search for contacts.
+10. contact_list.py
+    - a simple contact book application which lets you view, add, remove and search for contacts
+    - a very similar solution to the to_do_list, but with a little OOP
 
-11. Palindrome Checker
-    - Write a program that checks if a given string is a palindrome.
+11. palindrome.py
+    - very simple code to check if a string is a palindrome or not
+    - one-liner solution
 
 12. Unit Converter
     - Create a program that converts units of measurement (e.g., kilometers to miles, Celsius to Fahrenheit).
