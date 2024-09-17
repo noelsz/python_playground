@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1167af36-1a8e-4aa9-aaeb-bc560d9ce78e" name="Changes" comment="experimenting with python UI">
-      <change afterPath="$PROJECT_DIR$/beginner_lvl/palindrome.py" afterDir="false" />
+    <list default="true" id="1167af36-1a8e-4aa9-aaeb-bc560d9ce78e" name="Changes" comment="palindrome checker">
+      <change afterPath="$PROJECT_DIR$/beginner_lvl/unit_converter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beginner_lvl/project_list" beforeDir="false" afterPath="$PROJECT_DIR$/beginner_lvl/project_list" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +39,7 @@
     "Python.palindrome.executor": "Run",
     "Python.to_do_list.executor": "Run",
     "Python.ui_exp.executor": "Run",
+    "Python.unit_converter.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
@@ -197,7 +197,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726129896853</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="palindrome checker">
+      <option name="closed" value="true" />
+      <created>1726134513996</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1726134513996</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -213,6 +221,7 @@
     <MESSAGE value="weather app (OpenWeatherMap)" />
     <MESSAGE value="added project list" />
     <MESSAGE value="experimenting with python UI" />
-    <option name="LAST_COMMIT_MESSAGE" value="experimenting with python UI" />
+    <MESSAGE value="palindrome checker" />
+    <option name="LAST_COMMIT_MESSAGE" value="palindrome checker" />
   </component>
 </project>
