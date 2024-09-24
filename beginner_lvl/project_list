@@ -43,8 +43,9 @@
     - very simple code to check if a string is a palindrome or not
     - one-liner solution
 
-12. Unit Converter
-    - Create a program that converts units of measurement (e.g., kilometers to miles, Celsius to Fahrenheit).
+12. unit_converter.py
+    - a simple application that can convert certain units to others
+    - you can convert length, weight, temperature, volume in this solution, but it can be expanded to be able to convert other measurements
 
 13. Hangman Game
     - Develop a simple text-based version of the Hangman game.
