@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1167af36-1a8e-4aa9-aaeb-bc560d9ce78e" name="Changes" comment="hangman game (usage of nltk library)">
+    <list default="true" id="1167af36-1a8e-4aa9-aaeb-bc560d9ce78e" name="Changes" comment="hangman game done">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/beginner_lvl/hangman_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/beginner_lvl/hangman_game.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -221,7 +222,23 @@
       <option name="project" value="LOCAL" />
       <updated>1727169123110</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="hangman game done">
+      <option name="closed" value="true" />
+      <created>1727170756777</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1727170756777</updated>
+    </task>
+    <task id="LOCAL-00019" summary="hangman game done">
+      <option name="closed" value="true" />
+      <created>1727170918533</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1727170918533</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -240,6 +257,7 @@
     <MESSAGE value="palindrome checker" />
     <MESSAGE value="simple unit converter" />
     <MESSAGE value="hangman game (usage of nltk library)" />
-    <option name="LAST_COMMIT_MESSAGE" value="hangman game (usage of nltk library)" />
+    <MESSAGE value="hangman game done" />
+    <option name="LAST_COMMIT_MESSAGE" value="hangman game done" />
   </component>
 </project>

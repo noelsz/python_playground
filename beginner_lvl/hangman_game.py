@@ -15,7 +15,7 @@ def hangman_game():
     wrong_guesses = 0
     for letter in word:
         guess += '_'
-    print(guess)
+
     while guess != word and wrong_guesses <= 15:
         letter = input('Enter a letter: ')
         if letter in word:
@@ -26,6 +26,7 @@ def hangman_game():
             guess = ''.join(word_letters)
             print(guess)
         else:
+            print(guess)
             wrong_guesses += 1
 
     if guess == word:
