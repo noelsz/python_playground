@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1167af36-1a8e-4aa9-aaeb-bc560d9ce78e" name="Changes" comment="hangman game done">
+    <list default="true" id="1167af36-1a8e-4aa9-aaeb-bc560d9ce78e" name="Changes" comment="hangman game done (small changes)">
+      <change afterPath="$PROJECT_DIR$/beginner_lvl/web_scraper.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beginner_lvl/hangman_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/beginner_lvl/hangman_game.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,20 +32,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.contact_list.executor": "Run",
-    "Python.hangman_game.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.palindrome.executor": "Run",
-    "Python.to_do_list.executor": "Run",
-    "Python.ui_exp.executor": "Run",
-    "Python.unit_converter.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.contact_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hangman_game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Python.to_do_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ui_exp.executor&quot;: &quot;Run&quot;,
+    &quot;Python.unit_converter.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="python_playground" />
@@ -238,7 +238,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727170918533</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="hangman game done (small changes)">
+      <option name="closed" value="true" />
+      <created>1727177105676</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1727177105676</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -258,6 +266,7 @@
     <MESSAGE value="simple unit converter" />
     <MESSAGE value="hangman game (usage of nltk library)" />
     <MESSAGE value="hangman game done" />
-    <option name="LAST_COMMIT_MESSAGE" value="hangman game done" />
+    <MESSAGE value="hangman game done (small changes)" />
+    <option name="LAST_COMMIT_MESSAGE" value="hangman game done (small changes)" />
   </component>
 </project>
