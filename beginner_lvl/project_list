@@ -47,8 +47,9 @@
     - a simple application that can convert certain units to others
     - you can convert length, weight, temperature, volume in this solution, but it can be expanded to be able to convert other measurements
 
-13. Hangman Game
-    - Develop a simple text-based version of the Hangman game.
+13. hangman_game.py
+    - a text-based implementation of the word-guessing game hangman
+    - uses the nltk library for random words and you can set the number of tries
 
 14. Basic Web Scraper
     - Use libraries like BeautifulSoup to scrape information from a website.
