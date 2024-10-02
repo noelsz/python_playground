@@ -1,36 +1,30 @@
 import requests
-import csv
+
 from bs4 import BeautifulSoup
 
-url = 'https://dev.to/'
+url = 'https://quotes.toscrape.com/'
 response = requests.get(url)
 
 soup = BeautifulSoup(response.content, 'html.parser')
 
-links = []
+quote_items = soup.find_all('div', class_='quote')
 
-for link in soup.find_all('a'):
-    links.append(link.get('href'))
+quotes = []
 
-# with open('links.csv', 'w', newline='') as csvfile:
-#     writer = csv.writer(csvfile)
-#     writer.writerow(["Link"])
-#     for link in links:
-#         writer.writerow([link])
+for quote_item in quote_items:
+    quote = quote_item.find('span', class_='text').text
+    author = quote_item.find('small', class_='author').text
+    tags = [tag.text for tag in quote_item.find('div', class_='tags').find_all('a', class_='tag')]
 
-articles = soup.find_all('h3')
+    quote_info = {
+        'quote': quote,
+        'author': author,
+        'tags': tags
+    }
+    quotes.append(quote_info)
 
-for article in articles:
-    title = article.text.strip()
-    link = article.find('a')['href']
-    publication_date = article.find('time')['datetime']
-    print(f"Title: {title}, Link: {link}, Publication Date: {publication_date}")
-
-with open('devto_articles.csv', 'w', newline='') as csvfile:
-    writer = csv.writer(csvfile)
-    writer.writerow(["Title", "Link", "Publication Date"])
-    for article in articles:
-        title = article.text.strip()
-        link = article.find('a')['href']
-        publication_date = article.find('time')['datetime']
-        writer.writerow([title, link, publication_date])
+for quote in quotes:
+    print("Quote: ", quote['quote'])
+    print("Author: ", quote['author'])
+    print("Tags: ", ', '.join(quote['tags']))
+    print()
