@@ -55,8 +55,9 @@
     - a simple web scraper for a simple website (https://quotes.toscrape.com/)
     - uses the BeautifulSoup library for the 'scraping'
 
-15. Tic-Tac-Toe Game
-    - Implement a two-player Tic-Tac-Toe game.
+15. tic_tac_toe.py
+    - the python implementation of the 2 player game Tic-Tac-Toe
+    - simple, turn-based game on the console where the player who can get 3 of their icon in one line wins
 
 16. Rock, Paper, Scissors Game
     - Write a program for a simple Rock, Paper, Scissors game against the computer.
