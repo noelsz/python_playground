@@ -51,8 +51,9 @@
     - a text-based implementation of the word-guessing game hangman
     - uses the nltk library for random words and you can set the number of tries
 
-14. Basic Web Scraper
-    - Use libraries like BeautifulSoup to scrape information from a website.
+14. web_scraper.py
+    - a simple web scraper for a simple website (https://quotes.toscrape.com/)
+    - uses the BeautifulSoup library for the 'scraping'
 
 15. Tic-Tac-Toe Game
     - Implement a two-player Tic-Tac-Toe game.
