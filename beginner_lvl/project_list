@@ -59,8 +59,9 @@
     - the python implementation of the 2 player game Tic-Tac-Toe
     - simple, turn-based game on the console where the player who can get 3 of their icon in one line wins
 
-16. Rock, Paper, Scissors Game
-    - Write a program for a simple Rock, Paper, Scissors game against the computer.
+16. rock_paper_scissors.py
+    - a simple rock, paper, scissors game against the computer
+    - the computer randomly chooses from the three elements, and lets you know who won or whether it's a draw
 
 17. Email Slicer
     - Create a program that takes an email address and slices it into username and domain.

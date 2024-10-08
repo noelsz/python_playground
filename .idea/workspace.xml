@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1167af36-1a8e-4aa9-aaeb-bc560d9ce78e" name="Changes" comment="web scraper app in works">
-      <change afterPath="$PROJECT_DIR$/beginner_lvl/tic_tac_toe.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python_playground.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_playground.iml" afterDir="false" />
+    <list default="true" id="1167af36-1a8e-4aa9-aaeb-bc560d9ce78e" name="Changes" comment="web scraper app done">
+      <change afterPath="$PROJECT_DIR$/beginner_lvl/rock_paper_scissors.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +38,7 @@
     "Python.hangman_game.executor": "Run",
     "Python.main.executor": "Run",
     "Python.palindrome.executor": "Run",
+    "Python.rock_paper_scissors.executor": "Run",
     "Python.tic_tac_toe.executor": "Run",
     "Python.to_do_list.executor": "Run",
     "Python.ui_exp.executor": "Run",
@@ -258,7 +257,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727180286952</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="web scraper app done">
+      <option name="closed" value="true" />
+      <created>1727875518906</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1727875518906</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -280,6 +287,7 @@
     <MESSAGE value="hangman game done" />
     <MESSAGE value="hangman game done (small changes)" />
     <MESSAGE value="web scraper app in works" />
-    <option name="LAST_COMMIT_MESSAGE" value="web scraper app in works" />
+    <MESSAGE value="web scraper app done" />
+    <option name="LAST_COMMIT_MESSAGE" value="web scraper app done" />
   </component>
 </project>
