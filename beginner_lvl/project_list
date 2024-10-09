@@ -67,8 +67,9 @@
     - a very simple e-mail slicing program
     - prints out the e-mail username, and e-mail domain name
 
-18. Binary to Decimal Converter
-    - Write a program to convert binary numbers to decimal.
+18. binary_to_decimal.py
+    - converts a binary number input to a decimal number
+    - (also created the opposite of the function, a decimal to binary converter)
 
 19. JSON Data Parsing
     - Write a program to parse JSON data and extract specific information.
