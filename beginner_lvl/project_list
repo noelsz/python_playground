@@ -63,8 +63,9 @@
     - a simple rock, paper, scissors game against the computer
     - the computer randomly chooses from the three elements, and lets you know who won or whether it's a draw
 
-17. Email Slicer
-    - Create a program that takes an email address and slices it into username and domain.
+17. email_slicer.py
+    - a very simple e-mail slicing program
+    - prints out the e-mail username, and e-mail domain name
 
 18. Binary to Decimal Converter
     - Write a program to convert binary numbers to decimal.
